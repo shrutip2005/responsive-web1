@@ -1,5 +1,20 @@
 # Web Design 1
 
+
+Root Directory:
+
+Files: index.html
+Directories:
+css
+img
+CSS Directory:
+
+Files: responsive.css, style.css
+IMG Directory:
+
+Image files: Includes various images such as basket.jpg, gallery-2-1.jpg, product_29_1.jpg, etc.
+
+
 ## Description
 This project contains a basic website with the following structure:
 
